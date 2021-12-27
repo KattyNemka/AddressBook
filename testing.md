@@ -16,7 +16,7 @@ User Features
 
 Testing of the app.
 
-1.[bug reports(AddressBook).docx](https://github.com/KattyNemka/AddressBook/files/7779419/bug.reports.AddressBook.docx)
+1.[bug reports(AddressBook).docx](https://github.com/KattyNemka/AddressBook/files/7781813/bug.reports.AddressBook.docx)
 
 2.[checklist(AddressBook) .xlsx](https://github.com/KattyNemka/AddressBook/files/7781800/checklist.AddressBook.xlsx)
 
